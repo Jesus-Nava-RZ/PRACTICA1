@@ -4,7 +4,7 @@ def suma_numeros():
     for i in range(n):
         num = float(input(f"Ingresa el número {i+1}: "))
         total += num
-    print(f"La suma total es: {total}")
+    print(f"La suma total es de: {total}")
 
 def producto_numeros():
     n = int(input("¿Cuántos números deseas multiplicar? "))
