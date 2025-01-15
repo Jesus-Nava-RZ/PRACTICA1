@@ -1,4 +1,4 @@
-# cuadrado_cubo.py
+# Paso 6.py
 
 # Solicitar al usuario que introduzca un número
 numero = float(input("Introduce un número: "))
